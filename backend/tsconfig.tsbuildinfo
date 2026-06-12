@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/config/db.ts","./src/models/question.ts","./src/models/submission.ts","./src/models/user.ts","./src/routes/auth.ts"],"version":"5.8.3"}
+{"root":["./src/index.ts","./src/worker.ts","./src/config/db.ts","./src/middleware/auth.ts","./src/models/question.ts","./src/models/submission.ts","./src/models/user.ts","./src/routes/auth.ts","./src/routes/submission.ts","./src/services/websocket.ts"],"version":"6.0.3"}
